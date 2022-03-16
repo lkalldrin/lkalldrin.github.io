@@ -12,7 +12,8 @@ This is a *special* word.
 - list
 
 ```php
-while ($1 < 15) {
+# PHP example:
+while ($i < 15) {
   echo "You'll see this again and again<br />";
 }
 ```
