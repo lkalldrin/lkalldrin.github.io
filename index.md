@@ -15,5 +15,6 @@ This is a *special* word.
 # PHP example:
 while ($i < 15) {
   echo "You'll see this again and again<br />";
+  $i++;
 }
 ```
