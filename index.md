@@ -11,6 +11,8 @@ This is a *special* word.
 - a
 - list
 
-  <pre>
-    No formatting here, friend!
-  </pre>
+```php
+while ($1 < 15) {
+  echo "You'll see this again and again<br />";
+}
+```
