@@ -23,7 +23,8 @@ while ($i < 15) {
 
 ...and this is where I'm going to add a line. Will it flow back to GitHub?
 
-- [ ] One
-- [ ] Small
+- [x] One
+- [x] Small
 - [ ] Checklist
 
+The question remains unanswered: would this be a viable tool for SO docs?
