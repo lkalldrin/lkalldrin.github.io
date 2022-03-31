@@ -1,3 +1,8 @@
+---
+layout: wrapper
+title: Cleared for Takeoff
+---
+
 ## I guess I just can't stop creating files.
 
 This is how we learn, by iterative experimentation. Experimental iteration?
@@ -7,3 +12,5 @@ This is how we learn, by iterative experimentation. Experimental iteration?
          alt="Basset hound ready for takeoff">
     <figcaption>Cleared for takeoff!</figcaption>
 </figure>
+
+### This is a level three heading

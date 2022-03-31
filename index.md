@@ -1,5 +1,5 @@
 ---
-tags: `testing`, `SOE-2022.3`
+layout: wrapper
 ---
 
 This is my new test file, complete with a whole lotta nuthin'.
