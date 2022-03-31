@@ -1,3 +1,9 @@
 ## I guess I just can't stop creating files.
 
 This is how we learn, by iterative experimentation. Experimental iteration?
+
+<figure>
+    <img src="https://cdn.akc.org/content/article-body-image/funny-basset_hound_yawning.jpg"
+         alt="Basset hound ready for takeoff">
+    <figcaption>Cleared for takeoff!</figcaption>
+</figure>
