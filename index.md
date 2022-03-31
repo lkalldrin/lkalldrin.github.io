@@ -1,4 +1,6 @@
-###### tags: `testing` `SOE-2022.3`
+---
+tags: `testing`, `SOE-2022.3`
+---
 
 This is my new test file, complete with a whole lotta nuthin'.
 
