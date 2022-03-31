@@ -14,3 +14,4 @@ This is how we learn, by iterative experimentation. Experimental iteration?
 </figure>
 
 ### This is a level three heading
+#### This is level four, added into the file directly in GitHub.
