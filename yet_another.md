@@ -3,7 +3,7 @@ layout: wrapper
 title: Cleared for Takeoff
 ---
 
-## I guess I just can't stop creating files.
+## I've changed this heading, directly in GH. Not HG.
 
 This is how we learn, by iterative experimentation. Experimental iteration?
 
@@ -21,7 +21,7 @@ This is how we learn, by iterative experimentation. Experimental iteration?
 
 What if I make a change in Glitch? This is a change in Glitch. Wish us luck...
 
-| Syntax | Description |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+|Header|Title|
+|----|----|
+|cell|data|
+|bagels|cheese|
