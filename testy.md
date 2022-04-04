@@ -1,3 +1,8 @@
+---
+layout: wrapper
+title: New File, Again
+---
+
 ## This is a new file, added on a new branch.
 
 I think the right way to do this is to have everyone add a branch for changes, unless it's just a _simple_ fix.
