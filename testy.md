@@ -11,7 +11,13 @@ I think the right way to do this is to have everyone add a branch for changes, u
 
 Thus ends our exercise in adding a new file in a new branch.
 
-+ Create branch
-+ Add new file to branch
-+ Commit
-+ Merge
++ Create branch (local)
++ Add new file to branch (local)
++ Commit (local)
++ Push (local)
++ Create pull request (GH)
++ Merge (GH)
++ Delete branch (GH)
++ Sync main (local)
++ Delete branch (local)
++ Run Git prune command (local)
