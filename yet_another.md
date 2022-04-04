@@ -17,3 +17,7 @@ This is how we learn, by iterative experimentation. Experimental iteration?
 
 #### What if I do this locally?
 #### This is level four, added into the file directly in GitHub.
+
+|Tables|Are|Cool|
+|----|----|----|
+|data|is|cool|
